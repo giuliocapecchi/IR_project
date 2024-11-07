@@ -166,3 +166,5 @@ cython_debug/
 *.pkl
 *.gz
 /backup/*
+*.csv
+/results_parquets
