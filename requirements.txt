@@ -8,3 +8,4 @@ matplotlib-inline==0.1.7
 matplotlib-venn==1.1.1
 nltk==3.8.1
 tqdm==4.66.6
+PyStemmer==2.2.0.3
