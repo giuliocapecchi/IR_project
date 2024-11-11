@@ -168,3 +168,6 @@ cython_debug/
 /backup/*
 *.csv
 /results_parquets
+/perfm
+*test*
+*.txt
