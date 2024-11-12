@@ -171,3 +171,4 @@ cython_debug/
 /perfm
 *test*
 *.txt
+*.run
