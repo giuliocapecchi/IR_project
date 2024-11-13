@@ -172,3 +172,5 @@ cython_debug/
 *test*
 *.txt
 *.run
+/trec_eval-9.0.8
+trec_eval
