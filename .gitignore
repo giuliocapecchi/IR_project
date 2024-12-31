@@ -167,7 +167,6 @@ cython_debug/
 *.gz
 /backup/*
 *.csv
-/results_parquets
 /perfm
 *test*
 *.txt
@@ -175,4 +174,3 @@ cython_debug/
 /trec_eval-9.0.8
 trec_eval
 /index_3docs
-IR_project_14 12.ipynb
